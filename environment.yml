@@ -1,0 +1,4 @@
+name: MLCatolica24
+channels:
+  - defaults
+prefix: /Users/simaonovais/miniconda3/envs/MLCatolica24
