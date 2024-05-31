@@ -18,6 +18,11 @@ Bem vindos ao curso de Machine Learning da Católica, edição 2024 🎉
 
 ## Aula 2 - Cálculo e Estatística
 
+[Cálculo - Learning Notebook](https://colab.research.google.com/github/HLUZ-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Cálculo%20e%20Estatística/Cálculo/Learning%20Notebook.ipynb) <br>
+[Estatística & Análise de dados - Learning Notebook](https://colab.research.google.com/github/HLUZ-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Cálculo%20e%20Estatística/Estatística%20e%20Análise%20de%20Dados/Learning%20Notebook.ipynb) <br>
+[Estatística & Análise de dados - Exercises Notebook](https://colab.research.google.com/github/HLUZ-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Cálculo%20e%20Estatística/Estatística%20e%20Análise%20de%20Dados/Exercises%20Notebook.ipynb)
+
+
 
 
 
