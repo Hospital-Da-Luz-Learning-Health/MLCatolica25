@@ -1,4 +1,4 @@
-# ML Católica 2024
+# Introdução a Machine Learning - Católica 2024
 
 Bem vindos ao curso de Introdução Machine Learning da Católica, edição 2024 🎉
 
