@@ -6,7 +6,7 @@ Welcome to the course "Introdução a Machine Learning" from Católica, 2024 edi
 
 ## Class 1 - Introduction to Python
 
-[Slides]()
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/slides/20240618%20IMLH%20First%20class.pptx): On this page click the `View raw` text to download the slides.
 
 Python:
 - [Intro To Python - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introdução/Intro%20to%20Python%20-%20Learning%20Notebook.ipynb)
