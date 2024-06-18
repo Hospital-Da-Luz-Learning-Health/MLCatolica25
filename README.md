@@ -13,7 +13,7 @@ Python:
 Álgebra Linear:
 - [Introdução a conceitos básicos de Álgebra Linear](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb)
 - [Multiplicação de Matrizes e Vetores](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
-- [Mais conceitos básicos (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Readme.md?plain=1)
+- [Mais conceitos básicos (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra)
 
 
 ## Aula 5 - Supervised Learning
