@@ -17,6 +17,7 @@ Python:
 Linear Algebra:
 - [Introdução a conceitos básicos de Álgebra Linear](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb)
 - [Multiplicação de Matrizes e Vetores](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
+- [Exemplo Clínico](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/LinearAlgebra.ipynb)
 - [Mais conceitos básicos (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra)
 
 
