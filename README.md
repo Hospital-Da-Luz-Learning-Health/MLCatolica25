@@ -23,6 +23,7 @@ Linear Algebra:
 - [Matrix and Vector Multiplication](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
 - [Clinical Example](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/LinearAlgebra.ipynb)
 - [More Basic concepts (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra)
+- [Calculus - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/Calculus%20-%20Learning%20Notebook.ipynb)
 
 ## Class 3 - Pandas & Data Analysis
 
