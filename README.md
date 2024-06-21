@@ -2,6 +2,10 @@
 
 Welcome to the course "Introdução a Machine Learning" from Católica, 2024 edition 🎉
 
+# Final Project
+
+The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/tree/main/Final%20Project)
+
 # Content
 
 ## Class 1 - Introduction to Python
