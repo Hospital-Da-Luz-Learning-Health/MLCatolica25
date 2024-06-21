@@ -7,9 +7,11 @@ Welcome to Introduction to Machine Learning in Healthcare. During the next four 
 Hyperglycemia management in a hospital setting has a strong impact in patients clinical outcomes, namely in both morbidity and mortality. This has set a formal protocol of glucose targets within Intensive Care Units (ICU). However, this is still not the case for non-ICU patient admissions. The database here presented aims to examine historical patterns of diabetes care in patients with diabetes admitted to several US hospitals. Specifically, it was build to discover if there are any markers of attention to diabetes care in a large number of individuals identified as having a diagnosis of diabetes mellitus. [1]
 In this project, you are expected to train a machine learning model that can predict a clinical outcome measure, in this case re-admission within 30 days after a diabetic encounter discharge.
 
+[1] Beata Strack, Jonathan P. DeShazo, Chris Gennings, Juan L. Olmo, Sebastian Ventura, Krzysztof J. Cios, and John N. Clore, “Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol. 2014, Article ID 781670, 11 pages, 2014.
+
 ## The data set
 
-“The data set represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 20 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria:
+“The [data set](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 20 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria:
 1.	It is an inpatient encounter (a hospital admission).
 2.	It is a diabetic encounter, that is, one during which any kind of diabetes was entered to the system as a diagnosis.
 3.	The length of stay was at least 1 day and at most 14 days.
@@ -44,7 +46,7 @@ This dataset is composed of 23 variables:
 | other_meds_change         | cat   | Indicates whether other drugs had a change in dosage. Values: “up” if the dosage was increased during the encounter, “down” if the dosage was decreased, “steady” if the dosage did not change. |
 | diabetesMed               | cat   | Indicates if there was any diabetic medication prescribed. Values: “yes” and “no”                                                                                                |
 
-
+[2] This dataset was adapted from Clore,John, Cios,Krzysztof, DeShazo,Jon, and Strack,Beata. (2014). Diabetes 130-US Hospitals for Years 1999-2008. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J 
 ## The goal
 
 Optimize a machine learning model to predict re-admission in patients that had a previous diabetic encounter. The target feature is identified as “readmitted”
@@ -85,3 +87,4 @@ Optimize a machine learning model to predict re-admission in patients that had a
 1. **Reproducibility**: Ensure that all code and analyses can be reproduced by others.
 2. **Clarity**: Write clear and concise code with comments.
 3. **Visualization**: Use visualizations effectively to communicate insights.
+
