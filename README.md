@@ -2,6 +2,10 @@
 
 Welcome to the course "Introdução a Machine Learning" from Católica, 2024 edition 🎉
 
+# Final Project
+
+The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/tree/main/Final%20Project)
+
 # Content
 
 ## Class 1 - Introduction to Python
@@ -19,9 +23,13 @@ Linear Algebra:
 - [Matrix and Vector Multiplication](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
 - [Clinical Example](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/LinearAlgebra.ipynb)
 - [More Basic concepts (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra)
+- [Calculus - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/Calculus%20-%20Learning%20Notebook.ipynb)
 
+## Class 3 - Pandas & Data Analysis
 
-
+- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20Series%20101/Learning%20Notebook.ipynb)
+- [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
+- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Exercise%20Notebook.ipynb)
 
 
 
