@@ -8,3 +8,4 @@
     - Metrics for clustering quality
 3. Dimensionality Reduction
     - PCA
+4. Cluster Characterization
