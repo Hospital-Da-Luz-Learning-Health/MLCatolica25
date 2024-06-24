@@ -33,5 +33,5 @@ Linear Algebra:
 
 ## Class 4 - Unsupervised Learning
 - [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
-
+- [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
 
