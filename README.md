@@ -29,10 +29,9 @@ Linear Algebra:
 
 - [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20Series%20101/Learning%20Notebook.ipynb)
 - [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
-- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Exercise%20Notebook.ipynb)
+- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github//Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
 
 ## Class 4 - Unsupervised Learning
 - [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
-
 
 
