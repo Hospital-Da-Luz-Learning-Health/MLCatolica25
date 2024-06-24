@@ -6,6 +6,5 @@
     - k-means
     - Hierarchical clustering
     - Metrics for clustering quality
-    - Clustering characterization
 3. Dimensionality Reduction
     - PCA
