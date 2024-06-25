@@ -35,6 +35,6 @@ Linear Algebra:
 - [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
 - [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
 
-## Class 5 - Supervised Learning (Linear Regression)
+## Class 5 - Supervised Learning (Regression)
 - [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
 - [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
