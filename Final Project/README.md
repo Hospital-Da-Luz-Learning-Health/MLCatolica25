@@ -30,7 +30,8 @@ This dataset is composed of 23 variables:
 | admission_type_id         | cat   | Integer identifier corresponding to 9 distinct values, for example, emergency, urgent, elective, newborn, and not available                                                      |
 | discharge_disposition_id  | cat   | Integer identifier corresponding to 29 distinct values, for example, discharged to home, expired, and not available                                                              |
 | admission_source_id       | cat   | Integer identifier corresponding to 21 distinct values, for example, physician referral, emergency room, and transfer from a hospital                                            |
-| time_in_hospital          | num   | Integer number of days between admission and discharge                                                                                                                           |
+| time_in_hospital          | num   | Integer number of days between admission and discharge
+|medical_specialty           | cat | String corresponding to 73 distinct values, for example, Cardiology, Family/GeneralPractice, ...        |
 | num_lab_procedures        | num   | Number of lab tests performed during the encounter                                                                                                                               |
 | num_procedures            | num   | Number of procedures (other than lab tests) performed during the encounter                                                                                                       |
 | num_medications           | num   | Number of distinct generic names administered during the encounter                                                                                                               |
