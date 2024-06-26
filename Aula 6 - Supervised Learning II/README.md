@@ -8,4 +8,4 @@
     - Interpret the logisti model coefficients
     - Evaluate the logistic model
 3. Example of use-case: Multiple Logistic Regression
-4. KNN
+4. K-Nearest Neighbors (KNN)
