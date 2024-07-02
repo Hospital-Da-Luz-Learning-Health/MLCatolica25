@@ -53,6 +53,5 @@ Linear Algebra:
 
 ## Class 7 - Supervised Learning (Classification - Decision Trees and Random Forest)
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%207%20-%20Supervised%20Learning%20III/Supervised%20Learning%20-%20classification%20II.pdf)
-
 - [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%207%20-%20Supervised%20Learning%20III/Learning%20Notebook.ipynb)
 - [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%207%20-%20Supervised%20Learning%20III/Exercise%20Notebook.ipynb)
