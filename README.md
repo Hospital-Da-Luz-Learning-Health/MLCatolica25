@@ -60,3 +60,7 @@ Linear Algebra:
 - [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%208%20-%20Metrics%20%26%20Model%20Optimization/Model%20Optimization%20and%20Evaluation.pptx)
 - [Metrics and Unbalanced Data - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%208%20-%20Metrics%20%26%20Model%20Optimization/Metrics%20%26%20Unblanced%20Data%20-%20Learning%20Notebook.ipynb)
 - [Grid Search - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%208%20-%20Metrics%20%26%20Model%20Optimization/Grid%20Search%20-%20Learning%20Notebook.ipynb)
+
+## Class 9 - Deep Learning
+
+- [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
