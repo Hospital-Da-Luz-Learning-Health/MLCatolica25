@@ -2,3 +2,4 @@
 *create_dataset.ipynb
 *test.csv
 *.vector_cache/
+*data/
