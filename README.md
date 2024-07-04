@@ -65,3 +65,5 @@ Linear Algebra:
 
 - [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
 - [CNNs - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/CNNs.ipynb)
+- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Embeddings.ipynb)
+
