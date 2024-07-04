@@ -1,3 +1,4 @@
 *.DS_Store
 *create_dataset.ipynb
 *test.csv
+*.vector_cache/
