@@ -68,7 +68,7 @@ Linear Algebra:
 - [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Embeddings.ipynb)
 
 ## Class 10 - Responsible AI
-[Slide](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%2010%20-%20%20Responsible%20AI/20240704_ResponsibleAI.pdf)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%2010%20-%20%20Responsible%20AI/20240704_ResponsibleAI.pdf)
 
 - [Explainability - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%2010%20-%20%20Responsible%20AI/Learning%20Notebook%20-%20Explainability.ipynb)
 - [Fairness - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%2010%20-%20%20Responsible%20AI/Learning%20Notebook%20-%20Fairness.ipynb)
