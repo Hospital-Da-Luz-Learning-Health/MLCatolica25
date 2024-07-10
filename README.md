@@ -8,6 +8,8 @@ The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Heal
 
 The notebook to develop your project is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Final%20Project/final_project.ipynb)
 
+Tutorial Notebook for how to submit your prediction to the test set is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Final%20Project/submission%20tutorial.ipynb)
+
 # Content
 
 ## Class 1 - Introduction to Python
