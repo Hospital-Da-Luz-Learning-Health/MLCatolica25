@@ -1,0 +1,304 @@
+id,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Diagnosed
+192,43,male,asymptomatic,132,247,1,left ventricular hypertrophy,143,1,0.1,fat,,reversible defect,>50%
+189,69,male,non-anginal pain,140,254,0,left ventricular hypertrophy,146,0,2.0,fat,3.0,reversible defect,>50%
+0,63,male,typical angina,145,233,1,left ventricular hypertrophy,150,0,2.3,downsloping,0.0,fixed defect,<50%
+23,58,male,non-anginal pain,132,224,0,left ventricular hypertrophy,173,0,3.2,upsloping,2.0,reversible defect,>50%
+284,61,male,asymptomatic,148,203,0,normal,161,0,0.0,upsloping,1.0,reversible defect,>50%
+177,56,male,asymptomatic,132,184,0,left ventricular hypertrophy,105,1,2.1,fat,1.0,fixed defect,>50%
+89,51,female,non-anginal pain,130,256,0,left ventricular hypertrophy,149,0,0.5,upsloping,0.0,normal,<50%
+290,67,male,non-anginal pain,152,212,0,left ventricular hypertrophy,150,0,0.8,fat,0.0,reversible defect,>50%
+127,54,male,asymptomatic,110,239,0,normal,126,1,2.8,fat,1.0,reversible defect,>50%
+56,50,male,non-anginal pain,140,233,0,normal,163,0,0.6,fat,1.0,reversible defect,>50%
+96,59,male,asymptomatic,110,239,0,left ventricular hypertrophy,142,1,1.2,fat,1.0,reversible defect,>50%
+57,41,male,asymptomatic,110,172,0,left ventricular hypertrophy,158,0,0.0,upsloping,0.0,reversible defect,>50%
+58,54,male,non-anginal pain,125,273,0,left ventricular hypertrophy,152,0,0.5,downsloping,1.0,normal,<50%
+62,58,male,asymptomatic,128,216,0,left ventricular hypertrophy,131,1,2.2,fat,3.0,reversible defect,>50%
+7,57,female,asymptomatic,120,354,0,normal,163,1,0.6,upsloping,0.0,normal,<50%
+206,58,male,asymptomatic,128,259,0,left ventricular hypertrophy,130,1,3.0,fat,2.0,reversible defect,>50%
+60,51,female,asymptomatic,130,305,0,normal,142,1,1.2,fat,0.0,reversible defect,>50%
+274,59,male,typical angina,134,204,0,normal,162,0,0.8,upsloping,2.0,normal,>50%
+171,53,male,asymptomatic,142,226,0,left ventricular hypertrophy,111,1,0.0,upsloping,0.0,reversible defect,<50%
+184,60,female,asymptomatic,158,305,0,left ventricular hypertrophy,161,0,0.0,upsloping,0.0,normal,>50%
+3,37,male,non-anginal pain,130,250,0,normal,187,0,3.5,downsloping,0.0,normal,<50%
+198,50,female,atypical angina,120,244,0,normal,162,0,1.1,upsloping,0.0,normal,<50%
+224,63,female,asymptomatic,108,269,0,normal,169,1,1.8,fat,2.0,normal,>50%
+146,57,male,asymptomatic,165,289,1,left ventricular hypertrophy,124,0,1.0,fat,3.0,reversible defect,>50%
+45,58,male,non-anginal pain,112,230,0,left ventricular hypertrophy,165,0,2.5,fat,1.0,reversible defect,>50%
+20,64,male,typical angina,110,211,0,left ventricular hypertrophy,144,1,1.8,fat,0.0,normal,<50%
+137,62,male,atypical angina,120,281,0,left ventricular hypertrophy,103,0,1.4,fat,1.0,reversible defect,>50%
+183,59,male,typical angina,178,270,0,left ventricular hypertrophy,145,0,4.2,downsloping,0.0,reversible defect,<50%
+72,62,male,asymptomatic,120,267,0,normal,99,1,1.8,fat,2.0,reversible defect,>50%
+133,51,male,asymptomatic,140,261,0,left ventricular hypertrophy,186,1,0.0,upsloping,0.0,normal,<50%
+155,70,male,asymptomatic,130,322,0,left ventricular hypertrophy,109,0,2.4,fat,3.0,normal,>50%
+227,67,female,non-anginal pain,152,277,0,normal,172,0,0.0,upsloping,1.0,normal,<50%
+124,65,male,typical angina,138,282,1,left ventricular hypertrophy,174,0,1.4,fat,1.0,normal,>50%
+142,52,male,atypical angina,128,205,1,normal,184,0,0.0,upsloping,0.0,normal,<50%
+79,58,male,asymptomatic,150,270,0,left ventricular hypertrophy,111,1,0.8,upsloping,0.0,reversible defect,>50%
+217,46,female,asymptomatic,138,243,0,left ventricular hypertrophy,152,1,0.0,fat,0.0,normal,<50%
+53,44,male,atypical angina,130,219,0,left ventricular hypertrophy,188,0,0.0,upsloping,0.0,normal,<50%
+80,45,male,asymptomatic,104,208,0,left ventricular hypertrophy,148,1,3.0,fat,0.0,normal,<50%
+160,46,male,atypical angina,101,197,1,normal,156,0,0.0,upsloping,0.0,reversible defect,<50%
+254,43,male,asymptomatic,115,303,0,normal,181,0,1.2,fat,0.0,normal,<50%
+235,54,male,asymptomatic,122,286,0,left ventricular hypertrophy,116,1,3.2,fat,2.0,normal,>50%
+289,56,male,atypical angina,120,240,0,normal,169,0,0.0,downsloping,0.0,normal,<50%
+258,70,male,atypical angina,156,245,0,left ventricular hypertrophy,143,0,0.0,upsloping,0.0,normal,<50%
+70,65,female,non-anginal pain,155,269,0,normal,148,0,0.8,upsloping,0.0,normal,<50%
+229,66,male,asymptomatic,112,212,0,left ventricular hypertrophy,132,1,0.1,upsloping,1.0,normal,>50%
+268,40,male,asymptomatic,152,223,0,normal,181,0,0.0,upsloping,0.0,reversible defect,>50%
+239,42,male,atypical angina,120,295,0,normal,162,0,0.0,upsloping,0.0,normal,<50%
+299,68,male,asymptomatic,144,193,1,normal,141,0,3.4,fat,2.0,reversible defect,>50%
+168,35,male,asymptomatic,126,282,0,left ventricular hypertrophy,156,1,0.0,upsloping,0.0,reversible defect,>50%
+50,41,female,atypical angina,105,198,0,normal,168,0,0.0,upsloping,1.0,normal,<50%
+34,44,male,non-anginal pain,130,233,0,normal,179,1,0.4,upsloping,0.0,normal,<50%
+276,66,female,non-anginal pain,146,278,0,left ventricular hypertrophy,152,0,0.0,fat,1.0,normal,<50%
+78,48,male,atypical angina,130,245,0,left ventricular hypertrophy,180,0,0.2,fat,0.0,normal,<50%
+154,64,male,asymptomatic,120,246,0,left ventricular hypertrophy,96,1,2.2,downsloping,1.0,normal,>50%
+285,58,male,asymptomatic,114,318,0,ST-T wave abnormality,140,0,4.4,downsloping,3.0,fixed defect,>50%
+39,61,male,non-anginal pain,150,243,1,normal,137,1,1.0,fat,0.0,normal,<50%
+94,63,female,non-anginal pain,135,252,0,left ventricular hypertrophy,172,0,0.0,upsloping,0.0,normal,<50%
+30,69,female,typical angina,140,239,0,normal,151,0,1.8,upsloping,2.0,normal,<50%
+170,70,male,non-anginal pain,160,269,0,normal,112,1,2.9,fat,1.0,reversible defect,>50%
+75,65,female,non-anginal pain,160,360,0,left ventricular hypertrophy,151,0,0.8,upsloping,0.0,normal,<50%
+253,51,female,non-anginal pain,120,295,0,left ventricular hypertrophy,157,0,0.6,upsloping,0.0,normal,<50%
+118,63,male,asymptomatic,130,330,1,left ventricular hypertrophy,132,1,1.8,upsloping,3.0,reversible defect,>50%
+138,35,male,asymptomatic,120,198,0,normal,130,1,1.6,fat,0.0,reversible defect,>50%
+47,50,male,asymptomatic,150,243,0,left ventricular hypertrophy,128,0,2.6,fat,0.0,reversible defect,>50%
+119,65,male,asymptomatic,135,254,0,left ventricular hypertrophy,127,0,2.8,fat,1.0,reversible defect,>50%
+28,43,male,asymptomatic,150,247,0,normal,171,0,1.5,upsloping,0.0,normal,<50%
+234,54,female,non-anginal pain,160,201,0,normal,163,0,0.0,upsloping,1.0,normal,<50%
+21,58,female,typical angina,150,283,1,left ventricular hypertrophy,162,0,1.0,upsloping,0.0,normal,<50%
+293,63,male,asymptomatic,140,187,0,left ventricular hypertrophy,144,1,4.0,upsloping,2.0,reversible defect,>50%
+180,48,male,asymptomatic,124,274,0,left ventricular hypertrophy,166,0,0.5,fat,0.0,reversible defect,>50%
+240,41,male,atypical angina,110,235,0,normal,153,0,0.0,upsloping,0.0,normal,<50%
+38,55,male,asymptomatic,132,353,0,normal,132,1,1.2,fat,1.0,reversible defect,>50%
+145,47,male,non-anginal pain,108,243,0,normal,152,0,0.0,upsloping,0.0,normal,>50%
+110,61,female,asymptomatic,145,307,0,left ventricular hypertrophy,146,1,1.0,fat,0.0,reversible defect,>50%
+113,43,female,asymptomatic,132,341,1,left ventricular hypertrophy,136,1,3.0,fat,0.0,reversible defect,>50%
+159,68,male,non-anginal pain,118,277,0,normal,151,0,1.0,upsloping,1.0,reversible defect,<50%
+280,57,male,asymptomatic,110,335,0,normal,143,1,3.0,fat,1.0,reversible defect,>50%
+275,64,male,typical angina,170,227,0,left ventricular hypertrophy,155,0,0.6,fat,0.0,reversible defect,<50%
+74,44,male,asymptomatic,110,197,0,left ventricular hypertrophy,177,0,0.0,upsloping,1.0,normal,>50%
+116,58,male,non-anginal pain,140,211,1,left ventricular hypertrophy,165,0,0.0,upsloping,0.0,normal,<50%
+14,52,male,non-anginal pain,172,199,1,normal,162,0,0.5,upsloping,0.0,reversible defect,<50%
+42,71,female,atypical angina,160,302,0,normal,162,0,0.4,upsloping,2.0,normal,<50%
+282,55,female,asymptomatic,128,205,0,ST-T wave abnormality,130,1,2.0,fat,1.0,reversible defect,>50%
+13,44,male,atypical angina,120,263,0,normal,173,0,0.0,upsloping,0.0,reversible defect,<50%
+216,46,female,atypical angina,105,204,0,normal,172,0,0.0,upsloping,0.0,normal,<50%
+16,48,male,atypical angina,110,229,0,normal,168,0,1.0,downsloping,0.0,reversible defect,>50%
+201,64,female,asymptomatic,180,325,0,normal,154,1,0.0,upsloping,0.0,normal,<50%
+135,55,female,atypical angina,135,250,0,left ventricular hypertrophy,161,0,1.4,fat,0.0,normal,<50%
+153,55,male,asymptomatic,160,289,0,left ventricular hypertrophy,145,1,0.8,fat,1.0,reversible defect,>50%
+125,45,female,atypical angina,130,234,0,left ventricular hypertrophy,175,0,0.6,fat,0.0,normal,<50%
+93,44,female,non-anginal pain,108,141,0,normal,175,0,0.6,fat,0.0,normal,<50%
+164,48,male,non-anginal pain,124,255,1,normal,175,0,0.0,upsloping,2.0,normal,<50%
+108,61,male,asymptomatic,120,260,0,normal,140,1,3.6,fat,1.0,reversible defect,>50%
+287,58,male,atypical angina,125,220,0,normal,144,0,0.4,fat,,reversible defect,<50%
+300,57,male,asymptomatic,130,131,0,normal,115,1,1.2,fat,1.0,reversible defect,>50%
+141,59,male,typical angina,170,288,0,left ventricular hypertrophy,159,0,0.2,fat,0.0,reversible defect,>50%
+106,59,male,asymptomatic,140,177,0,normal,162,1,0.0,upsloping,1.0,reversible defect,>50%
+245,67,male,asymptomatic,120,237,0,normal,71,0,1.0,fat,0.0,normal,>50%
+76,60,male,asymptomatic,125,258,0,left ventricular hypertrophy,141,1,2.8,fat,1.0,reversible defect,>50%
+143,64,male,non-anginal pain,125,309,0,normal,131,1,1.8,fat,0.0,reversible defect,>50%
+128,44,male,atypical angina,120,220,0,normal,170,0,0.0,upsloping,0.0,normal,<50%
+249,62,male,atypical angina,128,208,1,left ventricular hypertrophy,140,0,0.0,upsloping,0.0,normal,<50%
+162,54,female,non-anginal pain,110,214,0,normal,158,0,1.6,fat,0.0,normal,<50%
+121,63,female,asymptomatic,150,407,0,left ventricular hypertrophy,154,0,4.0,fat,3.0,reversible defect,>50%
+95,52,male,asymptomatic,128,255,0,normal,161,1,0.0,upsloping,1.0,reversible defect,>50%
+147,41,male,non-anginal pain,112,250,0,normal,179,0,0.0,upsloping,0.0,normal,<50%
+4,41,female,atypical angina,130,204,0,left ventricular hypertrophy,172,0,1.4,upsloping,0.0,normal,<50%
+261,58,female,atypical angina,136,319,1,left ventricular hypertrophy,152,0,0.0,upsloping,2.0,normal,>50%
+252,64,male,asymptomatic,128,263,0,normal,105,1,0.2,fat,1.0,reversible defect,<50%
+187,66,male,atypical angina,160,246,0,normal,120,1,0.0,fat,3.0,fixed defect,>50%
+281,47,male,non-anginal pain,130,253,0,normal,179,0,0.0,upsloping,0.0,normal,<50%
+43,59,male,non-anginal pain,150,212,1,normal,157,0,1.6,upsloping,0.0,normal,<50%
+223,53,male,asymptomatic,123,282,0,normal,95,1,2.0,fat,2.0,reversible defect,>50%
+52,44,male,asymptomatic,112,290,0,left ventricular hypertrophy,153,0,0.0,upsloping,1.0,normal,>50%
+228,54,male,asymptomatic,110,206,0,left ventricular hypertrophy,108,1,0.0,fat,1.0,normal,>50%
+19,49,male,atypical angina,130,266,0,normal,171,0,0.6,upsloping,0.0,normal,<50%
+248,52,male,asymptomatic,125,212,0,normal,168,0,1.0,upsloping,2.0,reversible defect,>50%
+182,42,male,typical angina,148,244,0,left ventricular hypertrophy,178,0,0.8,upsloping,2.0,normal,<50%
+25,50,female,non-anginal pain,120,219,0,normal,158,0,1.6,fat,0.0,normal,<50%
+267,59,male,non-anginal pain,126,218,1,normal,134,0,2.2,fat,1.0,fixed defect,>50%
+196,69,male,typical angina,160,234,1,left ventricular hypertrophy,131,0,0.1,fat,1.0,normal,<50%
+81,53,female,asymptomatic,130,264,0,left ventricular hypertrophy,143,0,0.4,fat,0.0,normal,<50%
+264,61,male,asymptomatic,138,166,0,left ventricular hypertrophy,125,1,3.6,fat,1.0,normal,>50%
+132,29,male,atypical angina,130,204,0,left ventricular hypertrophy,202,0,0.0,upsloping,0.0,normal,<50%
+140,59,male,atypical angina,140,221,0,normal,164,1,0.0,upsloping,0.0,normal,<50%
+15,57,male,non-anginal pain,150,168,0,normal,174,0,1.6,upsloping,0.0,normal,<50%
+37,57,male,asymptomatic,150,276,0,left ventricular hypertrophy,112,1,0.6,fat,1.0,fixed defect,>50%
+266,52,male,asymptomatic,128,204,1,normal,156,1,1.0,fat,0.0,,>50%
+87,53,female,non-anginal pain,128,216,0,left ventricular hypertrophy,115,0,0.0,upsloping,0.0,,<50%
+1,67,male,asymptomatic,160,286,0,left ventricular hypertrophy,108,1,1.5,fat,3.0,normal,>50%
+69,46,male,non-anginal pain,150,231,0,normal,147,0,3.6,fat,0.0,normal,>50%
+277,39,female,non-anginal pain,138,220,0,normal,152,0,0.0,fat,0.0,normal,<50%
+83,68,male,non-anginal pain,180,274,1,left ventricular hypertrophy,150,1,1.6,fat,0.0,reversible defect,>50%
+279,58,female,asymptomatic,130,197,0,normal,131,0,0.6,fat,0.0,normal,<50%
+194,68,female,non-anginal pain,120,211,0,left ventricular hypertrophy,115,0,1.5,fat,0.0,normal,<50%
+222,39,female,non-anginal pain,94,199,0,normal,179,0,0.0,upsloping,0.0,normal,<50%
+203,64,female,non-anginal pain,140,313,0,normal,133,0,0.2,upsloping,0.0,reversible defect,<50%
+32,64,male,non-anginal pain,140,335,0,normal,158,0,0.0,upsloping,0.0,normal,>50%
+219,59,male,asymptomatic,138,271,0,left ventricular hypertrophy,182,0,0.0,upsloping,0.0,normal,<50%
+262,60,female,typical angina,150,240,0,normal,171,0,0.9,upsloping,0.0,normal,<50%
+243,61,male,typical angina,134,234,0,normal,145,0,2.6,fat,2.0,normal,>50%
+126,56,female,asymptomatic,200,288,1,left ventricular hypertrophy,133,1,4.0,downsloping,2.0,reversible defect,>50%
+88,53,female,asymptomatic,138,234,0,left ventricular hypertrophy,160,0,0.0,upsloping,0.0,normal,<50%
+288,56,male,atypical angina,130,221,0,left ventricular hypertrophy,163,0,0.0,upsloping,0.0,reversible defect,<50%
+256,67,female,asymptomatic,106,223,0,normal,142,0,0.3,upsloping,2.0,normal,<50%
+107,57,male,non-anginal pain,128,229,0,left ventricular hypertrophy,150,0,0.4,fat,1.0,reversible defect,>50%
+64,54,male,asymptomatic,120,188,0,normal,113,0,1.4,fat,1.0,reversible defect,>50%
+174,64,male,asymptomatic,145,212,0,left ventricular hypertrophy,132,0,2.0,fat,2.0,fixed defect,>50%
+220,41,female,non-anginal pain,112,268,0,left ventricular hypertrophy,172,1,0.0,upsloping,0.0,normal,<50%
+91,62,female,asymptomatic,160,164,0,left ventricular hypertrophy,145,0,6.2,downsloping,3.0,reversible defect,>50%
+84,52,male,atypical angina,120,325,0,normal,172,0,0.2,upsloping,0.0,normal,<50%
+77,51,female,non-anginal pain,140,308,0,left ventricular hypertrophy,142,0,1.5,upsloping,1.0,normal,<50%
+105,54,male,atypical angina,108,309,0,normal,156,0,0.0,upsloping,0.0,reversible defect,<50%
+41,40,male,typical angina,140,199,0,normal,178,1,1.4,upsloping,0.0,reversible defect,<50%
+10,57,male,asymptomatic,140,192,0,normal,148,0,0.4,fat,0.0,fixed defect,<50%
+269,42,male,non-anginal pain,130,180,0,normal,150,0,0.0,upsloping,0.0,normal,<50%
+283,35,male,atypical angina,122,192,0,normal,174,0,0.0,upsloping,0.0,normal,<50%
+150,52,male,typical angina,152,298,1,normal,178,0,1.2,fat,0.0,reversible defect,<50%
+2,67,male,asymptomatic,120,229,0,left ventricular hypertrophy,129,1,2.6,fat,2.0,reversible defect,>50%
+123,55,male,asymptomatic,140,217,0,normal,111,1,5.6,downsloping,0.0,reversible defect,>50%
+178,43,male,non-anginal pain,130,315,0,normal,162,0,1.9,upsloping,1.0,normal,<50%
+181,56,female,asymptomatic,134,409,0,left ventricular hypertrophy,150,1,1.9,fat,2.0,reversible defect,>50%
+63,54,female,non-anginal pain,135,304,1,normal,170,0,0.0,upsloping,0.0,normal,<50%
+134,43,female,non-anginal pain,122,213,0,normal,165,0,0.2,fat,0.0,normal,<50%
+152,67,female,non-anginal pain,115,564,0,left ventricular hypertrophy,160,0,1.6,fat,0.0,reversible defect,<50%
+151,42,female,asymptomatic,102,265,0,left ventricular hypertrophy,122,0,0.6,fat,0.0,normal,<50%
+82,39,male,non-anginal pain,140,321,0,left ventricular hypertrophy,182,0,0.0,upsloping,0.0,normal,<50%
+212,41,male,non-anginal pain,130,214,0,left ventricular hypertrophy,168,0,2.0,fat,0.0,normal,<50%
+218,64,female,asymptomatic,130,303,0,normal,122,0,2.0,fat,2.0,normal,<50%
+247,47,male,asymptomatic,110,275,0,left ventricular hypertrophy,118,1,1.0,fat,1.0,normal,>50%
+8,63,male,asymptomatic,130,254,0,left ventricular hypertrophy,147,0,1.4,fat,1.0,reversible defect,>50%
+265,42,male,asymptomatic,136,315,0,normal,125,1,1.8,fat,0.0,fixed defect,>50%
+148,45,male,atypical angina,128,308,0,left ventricular hypertrophy,170,0,0.0,upsloping,0.0,normal,<50%
+144,58,male,non-anginal pain,105,240,0,left ventricular hypertrophy,154,1,0.6,fat,0.0,reversible defect,<50%
+175,57,male,asymptomatic,152,274,0,normal,88,1,1.2,fat,1.0,reversible defect,>50%
+298,45,male,typical angina,110,264,0,normal,132,0,1.2,fat,0.0,reversible defect,>50%
+188,54,male,atypical angina,192,283,0,left ventricular hypertrophy,195,0,0.0,upsloping,1.0,reversible defect,>50%
+215,56,male,typical angina,120,193,0,left ventricular hypertrophy,162,0,1.9,fat,0.0,reversible defect,<50%
+297,57,female,asymptomatic,140,241,0,normal,123,1,0.2,fat,0.0,reversible defect,>50%
+270,61,male,asymptomatic,140,207,0,left ventricular hypertrophy,138,1,1.9,upsloping,1.0,reversible defect,>50%
+122,51,male,non-anginal pain,100,222,0,normal,143,1,1.2,fat,0.0,normal,<50%
+221,54,female,non-anginal pain,108,267,0,left ventricular hypertrophy,167,0,0.0,upsloping,0.0,normal,<50%
+112,52,male,typical angina,118,186,0,left ventricular hypertrophy,190,0,0.0,fat,0.0,fixed defect,<50%
+65,60,male,asymptomatic,145,282,0,left ventricular hypertrophy,142,1,2.8,fat,2.0,reversible defect,>50%
+230,52,female,non-anginal pain,136,196,0,left ventricular hypertrophy,169,0,0.1,fat,0.0,normal,<50%
+6,62,female,asymptomatic,140,268,0,left ventricular hypertrophy,160,0,3.6,downsloping,2.0,normal,>50%
+29,40,male,asymptomatic,110,167,0,left ventricular hypertrophy,114,1,2.0,fat,0.0,reversible defect,>50%
+27,66,female,typical angina,150,226,0,normal,114,0,2.6,downsloping,0.0,normal,<50%
+199,59,male,typical angina,160,273,0,left ventricular hypertrophy,125,0,0.0,upsloping,0.0,normal,>50%
+90,66,male,asymptomatic,120,302,0,left ventricular hypertrophy,151,0,0.4,fat,0.0,normal,<50%
+117,35,female,asymptomatic,138,183,0,normal,182,0,1.4,upsloping,0.0,normal,<50%
+255,42,female,non-anginal pain,120,209,0,normal,173,0,0.0,fat,0.0,normal,<50%
+292,44,male,asymptomatic,120,169,0,normal,144,1,2.8,downsloping,0.0,fixed defect,>50%
+176,52,male,asymptomatic,108,233,1,normal,147,0,0.1,upsloping,3.0,reversible defect,<50%
+302,38,male,non-anginal pain,138,175,0,normal,173,0,0.0,upsloping,,normal,<50%
+48,65,female,non-anginal pain,140,417,1,left ventricular hypertrophy,157,0,0.8,upsloping,1.0,normal,<50%
+213,66,female,asymptomatic,178,228,1,normal,165,1,1.0,fat,2.0,reversible defect,>50%
+208,55,male,atypical angina,130,262,0,normal,155,0,0.0,upsloping,0.0,normal,<50%
+226,47,male,asymptomatic,112,204,0,normal,143,0,0.1,upsloping,0.0,normal,<50%
+273,71,female,asymptomatic,112,149,0,normal,125,0,1.6,fat,0.0,normal,<50%
+250,57,male,asymptomatic,110,201,0,normal,126,1,1.5,fat,0.0,fixed defect,<50%
+204,43,male,asymptomatic,110,211,0,normal,161,0,0.0,upsloping,0.0,reversible defect,<50%
+85,44,male,non-anginal pain,140,235,0,left ventricular hypertrophy,180,0,0.0,upsloping,0.0,normal,<50%
+211,38,male,typical angina,120,231,0,normal,182,1,3.8,fat,0.0,reversible defect,>50%
+296,59,male,asymptomatic,164,176,1,left ventricular hypertrophy,90,0,1.0,fat,2.0,fixed defect,>50%
+214,52,male,asymptomatic,112,230,0,normal,160,0,0.0,upsloping,1.0,normal,>50%
+167,54,female,atypical angina,132,288,1,left ventricular hypertrophy,159,1,0.0,upsloping,1.0,normal,<50%
+232,49,male,non-anginal pain,118,149,0,left ventricular hypertrophy,126,0,0.8,upsloping,3.0,normal,>50%
+272,46,male,asymptomatic,140,311,0,normal,120,1,1.8,fat,2.0,reversible defect,>50%
+202,57,male,non-anginal pain,150,126,1,normal,173,0,0.2,upsloping,1.0,reversible defect,<50%
+197,45,female,asymptomatic,138,236,0,left ventricular hypertrophy,152,1,0.2,fat,0.0,normal,<50%
+278,57,male,atypical angina,154,232,0,left ventricular hypertrophy,164,0,0.0,upsloping,1.0,normal,>50%
+190,50,male,non-anginal pain,129,196,0,normal,163,0,0.0,upsloping,0.0,normal,<50%
+59,51,male,typical angina,125,213,0,left ventricular hypertrophy,125,1,1.4,upsloping,1.0,normal,<50%
+22,58,male,atypical angina,120,284,0,left ventricular hypertrophy,160,0,1.8,fat,0.0,normal,>50%
+233,74,female,atypical angina,120,269,0,left ventricular hypertrophy,121,1,0.2,upsloping,1.0,normal,<50%
+99,48,male,asymptomatic,122,222,0,left ventricular hypertrophy,186,0,0.0,upsloping,0.0,normal,<50%
+193,62,female,asymptomatic,138,294,1,normal,106,0,1.9,fat,3.0,normal,>50%
+238,49,female,atypical angina,134,271,0,normal,162,0,0.0,fat,0.0,normal,<50%
+301,57,female,atypical angina,130,236,0,left ventricular hypertrophy,174,0,0.0,fat,1.0,normal,>50%
+104,49,male,non-anginal pain,120,188,0,normal,139,0,2.0,fat,3.0,reversible defect,>50%
+129,62,female,asymptomatic,124,209,0,normal,163,0,0.0,upsloping,0.0,normal,<50%
+68,59,male,asymptomatic,170,326,0,left ventricular hypertrophy,140,1,3.4,downsloping,0.0,reversible defect,>50%
+130,54,male,non-anginal pain,120,258,0,left ventricular hypertrophy,147,0,0.4,fat,0.0,reversible defect,<50%
+157,58,male,asymptomatic,125,300,0,left ventricular hypertrophy,171,0,0.0,upsloping,2.0,reversible defect,>50%
+54,60,male,asymptomatic,130,253,0,normal,144,1,1.4,upsloping,1.0,reversible defect,>50%
+5,56,male,atypical angina,120,236,0,normal,178,0,0.8,upsloping,0.0,normal,<50%
+67,54,male,non-anginal pain,150,232,0,left ventricular hypertrophy,165,0,1.6,upsloping,0.0,reversible defect,<50%
+291,55,female,atypical angina,132,342,0,normal,166,0,1.2,upsloping,0.0,normal,<50%
+241,41,female,atypical angina,126,306,0,normal,163,0,0.0,upsloping,0.0,normal,<50%
+11,56,female,atypical angina,140,294,0,left ventricular hypertrophy,153,0,1.3,fat,0.0,normal,<50%
+73,65,male,asymptomatic,110,248,0,left ventricular hypertrophy,158,0,0.6,upsloping,2.0,fixed defect,>50%
+200,50,female,asymptomatic,110,254,0,left ventricular hypertrophy,159,0,0.0,upsloping,0.0,normal,<50%
+103,71,female,non-anginal pain,110,265,1,left ventricular hypertrophy,130,0,0.0,upsloping,1.0,normal,<50%
+158,60,male,asymptomatic,140,293,0,left ventricular hypertrophy,170,0,1.2,fat,2.0,reversible defect,>50%
+210,37,female,non-anginal pain,120,215,0,normal,170,0,0.0,upsloping,0.0,normal,<50%
+195,67,male,asymptomatic,100,299,0,left ventricular hypertrophy,125,1,0.9,fat,2.0,normal,>50%
+165,57,male,asymptomatic,132,207,0,normal,168,1,0.0,upsloping,0.0,reversible defect,<50%
+86,47,male,non-anginal pain,138,257,0,left ventricular hypertrophy,156,0,0.0,upsloping,0.0,normal,<50%
+156,51,male,asymptomatic,140,299,0,normal,173,1,1.6,upsloping,0.0,reversible defect,>50%
+295,41,male,atypical angina,120,157,0,normal,182,0,0.0,upsloping,0.0,normal,<50%
+257,76,female,non-anginal pain,140,197,0,ST-T wave abnormality,116,0,1.1,fat,0.0,normal,<50%
+17,54,male,asymptomatic,140,239,0,normal,160,0,1.2,upsloping,0.0,normal,<50%
+98,52,male,atypical angina,134,201,0,normal,158,0,0.8,upsloping,1.0,normal,<50%
+242,49,female,asymptomatic,130,269,0,normal,163,0,0.0,upsloping,0.0,normal,<50%
+179,53,male,non-anginal pain,130,246,1,left ventricular hypertrophy,173,0,0.0,upsloping,3.0,normal,<50%
+246,58,male,asymptomatic,100,234,0,normal,156,0,0.1,upsloping,1.0,reversible defect,>50%
+161,77,male,asymptomatic,125,304,0,left ventricular hypertrophy,162,1,0.0,upsloping,3.0,normal,>50%
+149,60,female,non-anginal pain,102,318,0,normal,160,0,0.0,upsloping,1.0,normal,<50%
+101,34,male,typical angina,118,182,0,left ventricular hypertrophy,174,0,0.0,upsloping,0.0,normal,<50%
+294,63,female,asymptomatic,124,197,0,normal,136,1,0.0,fat,0.0,normal,>50%
+51,65,male,asymptomatic,120,177,0,normal,140,0,0.4,upsloping,0.0,reversible defect,<50%
+259,57,male,atypical angina,124,261,0,normal,141,0,0.3,upsloping,0.0,reversible defect,>50%
+173,62,female,asymptomatic,140,394,0,left ventricular hypertrophy,157,0,1.2,fat,0.0,normal,<50%
+92,62,male,non-anginal pain,130,231,0,normal,146,0,1.8,fat,3.0,reversible defect,<50%
+12,56,male,non-anginal pain,130,256,1,left ventricular hypertrophy,142,1,0.6,fat,1.0,fixed defect,>50%
+102,57,female,asymptomatic,128,303,0,left ventricular hypertrophy,159,0,0.0,upsloping,1.0,normal,<50%
+172,59,female,asymptomatic,174,249,0,normal,143,1,0.0,fat,0.0,normal,>50%
+40,65,female,asymptomatic,150,225,0,left ventricular hypertrophy,114,0,1.0,fat,3.0,reversible defect,>50%
+205,45,male,asymptomatic,142,309,0,left ventricular hypertrophy,147,1,0.0,fat,3.0,reversible defect,>50%
+237,46,male,asymptomatic,120,249,0,left ventricular hypertrophy,144,0,0.8,upsloping,0.0,reversible defect,>50%
+26,58,female,non-anginal pain,120,340,0,normal,172,0,0.0,upsloping,0.0,normal,<50%
+286,58,female,asymptomatic,170,225,1,left ventricular hypertrophy,146,1,2.8,fat,2.0,fixed defect,>50%
+114,62,female,non-anginal pain,130,263,0,normal,97,0,1.2,fat,1.0,reversible defect,>50%
+97,60,female,asymptomatic,150,258,0,left ventricular hypertrophy,157,0,2.6,fat,2.0,reversible defect,>50%
+33,59,male,asymptomatic,135,234,0,normal,161,0,0.5,fat,0.0,reversible defect,<50%
+120,48,male,asymptomatic,130,256,1,left ventricular hypertrophy,150,1,0.0,upsloping,2.0,reversible defect,>50%
+207,50,male,asymptomatic,144,200,0,left ventricular hypertrophy,126,1,0.9,fat,0.0,reversible defect,>50%
+263,44,male,non-anginal pain,120,226,0,normal,169,0,0.0,upsloping,0.0,normal,<50%
+61,46,female,non-anginal pain,142,177,0,left ventricular hypertrophy,160,1,1.4,downsloping,0.0,normal,<50%
+236,56,male,asymptomatic,130,283,1,left ventricular hypertrophy,103,1,1.6,downsloping,0.0,reversible defect,>50%
+44,61,female,asymptomatic,130,330,0,left ventricular hypertrophy,169,0,0.0,upsloping,0.0,normal,>50%
+231,55,female,asymptomatic,180,327,0,ST-T wave abnormality,117,1,3.4,fat,0.0,normal,>50%
+100,45,male,asymptomatic,115,260,0,left ventricular hypertrophy,185,0,0.0,upsloping,0.0,normal,<50%
+209,62,female,asymptomatic,150,244,0,normal,154,1,1.4,fat,0.0,normal,>50%
+24,60,male,asymptomatic,130,206,0,left ventricular hypertrophy,132,1,2.4,fat,2.0,reversible defect,>50%
+115,41,male,atypical angina,135,203,0,normal,132,0,0.0,fat,0.0,fixed defect,<50%
+35,42,male,asymptomatic,140,226,0,normal,178,0,0.0,upsloping,0.0,normal,<50%
+260,44,female,non-anginal pain,118,242,0,normal,149,0,0.3,fat,1.0,normal,<50%
+55,54,male,asymptomatic,124,266,0,left ventricular hypertrophy,109,1,2.2,fat,1.0,reversible defect,>50%
+46,51,male,non-anginal pain,110,175,0,normal,123,0,0.6,upsloping,0.0,normal,<50%
+71,67,male,asymptomatic,125,254,1,normal,163,0,0.2,fat,2.0,reversible defect,>50%
+271,66,male,asymptomatic,160,228,0,left ventricular hypertrophy,138,0,2.3,upsloping,0.0,fixed defect,<50%
+131,51,male,non-anginal pain,94,227,0,normal,154,1,0.0,upsloping,1.0,reversible defect,<50%
+225,34,female,atypical angina,118,210,0,normal,192,0,0.7,upsloping,0.0,normal,<50%
+18,48,female,non-anginal pain,130,275,0,normal,139,0,0.2,upsloping,0.0,normal,<50%
+49,53,male,non-anginal pain,130,197,1,left ventricular hypertrophy,152,0,1.2,downsloping,0.0,normal,<50%
+66,60,male,non-anginal pain,140,185,0,left ventricular hypertrophy,155,0,3.0,fat,0.0,normal,>50%
+31,60,male,asymptomatic,117,230,1,normal,160,1,1.4,upsloping,2.0,reversible defect,>50%
+136,70,male,asymptomatic,145,174,0,normal,125,1,2.6,downsloping,0.0,reversible defect,>50%
+166,52,male,non-anginal pain,138,223,0,normal,169,0,0.0,upsloping,,normal,<50%
+191,51,male,asymptomatic,140,298,0,normal,122,1,4.2,fat,3.0,reversible defect,>50%
+251,58,male,asymptomatic,146,218,0,normal,105,0,2.0,fat,1.0,reversible defect,>50%
+163,58,female,asymptomatic,100,248,0,left ventricular hypertrophy,122,0,1.0,fat,0.0,normal,<50%
+169,45,female,atypical angina,112,160,0,normal,138,0,0.0,fat,0.0,normal,<50%
+186,42,male,non-anginal pain,120,240,1,normal,194,0,0.8,downsloping,0.0,reversible defect,<50%
+244,60,female,non-anginal pain,120,178,1,normal,96,0,0.0,upsloping,0.0,normal,<50%
+139,51,male,non-anginal pain,125,245,1,left ventricular hypertrophy,166,0,2.4,fat,0.0,normal,<50%
+9,53,male,asymptomatic,140,203,1,left ventricular hypertrophy,155,1,3.1,downsloping,0.0,reversible defect,>50%
+109,39,male,asymptomatic,118,219,0,normal,140,0,1.2,fat,0.0,reversible defect,>50%
+185,63,female,atypical angina,140,195,0,normal,179,0,0.0,upsloping,2.0,normal,<50%
+111,56,male,asymptomatic,125,249,1,left ventricular hypertrophy,144,1,1.2,fat,1.0,normal,>50%
+36,43,male,asymptomatic,120,177,0,left ventricular hypertrophy,120,1,2.5,fat,0.0,reversible defect,>50%
