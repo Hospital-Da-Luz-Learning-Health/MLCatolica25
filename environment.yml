@@ -1,4 +1,14 @@
-name: MLCatolica24
+name: mlcourse_env
 channels:
   - defaults
-prefix: /Users/simaonovais/miniconda3/envs/MLCatolica24
+dependencies:
+  - python=3.10
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - shap
+  - ipykernel
+prefix: /anaconda/envs/mlcourse_env

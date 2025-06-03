@@ -4,3 +4,5 @@
 *.vector_cache/
 *prepare_test.ipynb
 *Exercise Notebook_solutions.ipynb
+*.amlignore
+*.amlignore.amltmp
