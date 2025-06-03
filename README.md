@@ -1,10 +1,8 @@
-# Introduction to Machine Learning - Católica 2024
+# Introduction to Machine Learning - Católica 2025
 
-Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2024 edition 🎉
+Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2025 edition 🎉
 
 # Final Project
-
-⭐ Are you interested in what medical students were able to build after this 44h course on Machine Learning, without prior knowledge in programming? Check out their Presentation & Code [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/tree/main/Final%20Project/Submissions)!
 
 The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/tree/main/Final%20Project)
 
