@@ -9,3 +9,10 @@
     - Evaluate the logistic model
 3. Example of use-case: Multiple Logistic Regression
 4. K-Nearest Neighbors (KNN)
+
+1. Introduction to Decision Trees
+2. Example of diabetes prediction with Decision Trees
+    - Gini impurity
+    - Depth, leaves, overfitting
+3. Random Forests
+4. Other Ensemble methods
